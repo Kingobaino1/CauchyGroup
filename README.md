@@ -1,5 +1,7 @@
 # CauchyGroup
 This is our git project
+this is lively
+origination
 who deleted it
 I made observations regarding the push
 my name is T. D. 
